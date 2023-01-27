@@ -1,0 +1,21 @@
+.Product__description h1 {
+    color: #111;
+    margin-bottom: 0;
+  }
+  
+  .Product__description p {
+    width: 280px;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #aaa;
+    margin: 20px 0;
+    
+  }
+
+  .Product__price {
+    color: rgb(84, 83, 83);
+  }
+  
+  .Product__description {
+    padding: 10px;
+  }
